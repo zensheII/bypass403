@@ -44,6 +44,8 @@ ruby bypass403.rb --url https://target.com/admin --all --timeout 10
 
 Run without arguments to see the banner and help.
 
+[![Screenshot-20260301-160935.png](https://i.postimg.cc/bJ9M0SGg/Screenshot-20260301-160935.png)](https://postimg.cc/MMXdqTmf)
+
 ---
 
 ## Flags
