@@ -3,6 +3,7 @@ A CLI tool for testing 403 Forbidden bypass techniques. Useful during pentests a
 > **For authorized security testing only. Do not use against targets you don't have permission to test.**
 
 ---
+[![Screenshot-20260301-160854.png](https://i.postimg.cc/FsHtZpVn/Screenshot-20260301-160854.png)](https://postimg.cc/jCmkqz9z)
 
 ## What it does
 
